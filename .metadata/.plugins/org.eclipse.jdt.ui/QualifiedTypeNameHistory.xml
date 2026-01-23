@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.ibm.classobjects.mammal.Man"/>
+    <fullyQualifiedTypeName name="com.ibm.classobjects.mammal.orgnas.HumanEye"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="com.ibm.encapsulation.pack1.Base1"/>
+    <fullyQualifiedTypeName name="com.ibm.enums.types.Apples"/>
+    <fullyQualifiedTypeName name="com.ibm.oops.payroll.Employee"/>
+    <fullyQualifiedTypeName name="com.ibm.oops.payroll.PermenanntEmployee"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,38 @@
+package com.ibm.Staticpro;
+ class Test{
+	 static int value;
+	 //Constructor
+	 Test(){
+		 value=10;
+	 }
+	 //static initializer
+	 //the static initializer is called the moment the class is loaded to the memory and has the first priority
+	 static {
+		 System.out.println("Static Initializer called");
+		 value=15;
+	 }
+	 //The following is the inline block
+	 //the inline block has the second most priority the static initializer
+	 {
+		 System.out.println("inline block is called");
+	 }
+ }
+public class Application
+{
+	public static void main( String[] args )
+	{
+		//loading the class
+		//the first two are the implicit way of loading the class
+		//1.one way to create the object
+		//new Test();
+		//2.to initialize the static variable to a value
+		//Test.value=30;
+		//Explicit way of loading the class
+		try {
+			Class.forName("com.ibm.Staticpro.Test");
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

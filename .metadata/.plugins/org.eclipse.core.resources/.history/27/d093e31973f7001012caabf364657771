@@ -1,0 +1,15 @@
+package com.ibm.encapsulation.pack1;
+
+public class Base1 {
+	private int pri;
+	int deff;
+	protected int pro;
+	public int pub;
+	public void test(){
+		pri=1;
+		deff=2;
+		pro=3;
+		pub=4;
+		}
+
+}

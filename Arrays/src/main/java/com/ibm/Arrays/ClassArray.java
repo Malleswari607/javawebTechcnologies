@@ -1,0 +1,24 @@
+package com.ibm.Arrays;
+
+class Point{
+	public int x;
+	public int y;
+	public Point(int x, int y) {
+		this.x=x;
+		this.y=y;
+	}
+}
+public class ClassArray {
+	public static void main(String[] args) {
+		Point[] points;
+		points=new Point[3];
+		points[0]=new Point(2,3);
+		points[1]=new Point(3,6);
+		points[2]=new Point(4,8);
+		for(Point point:points) {
+			System.out.println(point.x+","+point.y);
+		}
+		
+	}
+
+}

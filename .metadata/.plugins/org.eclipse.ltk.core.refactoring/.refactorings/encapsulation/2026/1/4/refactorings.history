@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;base&apos; in &apos;com.ibm.encapsulation.pack1.Base2.access()&apos; to &apos;base1&apos;&#x0D;&#x0A;- Original project: &apos;encapsulation&apos;&#x0D;&#x0A;- Original element: &apos;com.ibm.encapsulation.pack1.Base2.access().base&apos;&#x0D;&#x0A;- Renamed element: &apos;base&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;base&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ibm.encapsulation.pack1{Base2.java[Base2~access@base!89!112!96!99!QBase1;!0!false" name="base1" references="true" stamp="1769073403959" version="1.0"/>
+</session>

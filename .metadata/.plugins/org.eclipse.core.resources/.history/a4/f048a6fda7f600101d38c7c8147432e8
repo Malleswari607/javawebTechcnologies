@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.ibm.clients.cui;
+
+
+/**
+ * 
+ */
+public class MainApp { 
+	 static java.util.Date date;
+	public static void main(String[] args) {
+		System.out.println("hello ibmer!");
+		System.out.println("This is malleswari!!welcome to Banglore");
+		System.out.println(date);
+	}
+}
+

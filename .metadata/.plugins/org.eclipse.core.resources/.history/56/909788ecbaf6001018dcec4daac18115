@@ -1,0 +1,7 @@
+package com.ibm.classobjects.mammal;
+
+import com.ibm.classobjects.mammal.orgnas.HumanEye;
+
+public class Human {
+	public HumanEye leftEye,rightEye;
+}

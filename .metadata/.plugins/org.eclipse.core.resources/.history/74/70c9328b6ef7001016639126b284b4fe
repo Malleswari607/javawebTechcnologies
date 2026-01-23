@@ -1,0 +1,11 @@
+package com.ibm.Staticpro;
+
+import javax.swing.JOptionPane.*;
+
+public class StaticProgram2 {
+	public static void main(String[] args) {
+		showConfirmDialog(null, args, null, 0, 0);
+		
+	}
+
+}

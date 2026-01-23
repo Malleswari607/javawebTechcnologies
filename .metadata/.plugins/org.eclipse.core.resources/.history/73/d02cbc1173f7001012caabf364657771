@@ -1,0 +1,11 @@
+package com.ibm.encapsulation.pack1;
+
+public class Base2 {
+	public void access() {
+		Base1  base=new Base1();
+		base.deff=4;
+		base.pro=5;
+		base.pub=6;
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.ibm.Arrays;
+
+public class Multidimensional {
+	public static void main(String[] args) {
+		int[][] nums;
+		nums=new int[3][2];
+		nums[1][1]=4; 
+		//here we using the integer array because the multidimensional array is an Array of Array which means the first dimension in array stores the address of the second array which is second dimension 
+		for(int[] firstdim:nums) {
+			for(int value:firstdim) {
+				System.out.print(value+" ");
+			} 
+			System.out.println();
+		}
+	}
+
+}

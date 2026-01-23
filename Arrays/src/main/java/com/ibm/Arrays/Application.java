@@ -1,0 +1,16 @@
+package com.ibm.Arrays;
+
+public class Application
+{
+	public static void main( String[] args )
+	{
+		int numbers[];
+		numbers=new int[5];
+		System.out.println(numbers.length);
+		numbers[3]=5;
+		for(int  num:numbers) {
+			System.out.println(num);
+		}
+		 
+	}
+}
