@@ -28,15 +28,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.ibm.oops"/>
+			<item value="com.ibm.Threads"/>
+			<item value="com.ibm.Exceptions"/>
 		</list>
 		<list key="groupId">
 			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
-			<item value="oops"/>
+			<item value="Threads"/>
+			<item value="Exceptions"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="hread"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
 			<item value="[artifactId]-[version]"/>

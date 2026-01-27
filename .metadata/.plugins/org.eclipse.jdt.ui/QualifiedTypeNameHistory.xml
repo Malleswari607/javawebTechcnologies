@@ -6,6 +6,24 @@
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="com.ibm.encapsulation.pack1.Base1"/>
     <fullyQualifiedTypeName name="com.ibm.enums.types.Apples"/>
+    <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.ibm.oops.payroll.Intern"/>
     <fullyQualifiedTypeName name="com.ibm.oops.payroll.Employee"/>
+    <fullyQualifiedTypeName name="com.ibm.oops.payroll.HR"/>
+    <fullyQualifiedTypeName name="com.ibm.oops.payroll.Finanace"/>
     <fullyQualifiedTypeName name="com.ibm.oops.payroll.PermenanntEmployee"/>
+    <fullyQualifiedTypeName name="com.ibm.oops.payroll.Freelancer"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.ibm.Threads.Runner"/>
+    <fullyQualifiedTypeName name="com.ibm.Threads.Threadspro"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
