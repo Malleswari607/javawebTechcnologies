@@ -28,13 +28,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.ibm.CollectionsPro"/>
+			<item value="com.ibm.Files"/>
+			<item value="com.ibm.AnoynomusFun"/>
 		</list>
 		<list key="groupId">
 			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
-			<item value="CollectionsPro"/>
+			<item value="Files"/>
+			<item value="AnoynomusFun"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
