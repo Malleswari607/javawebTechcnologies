@@ -28,15 +28,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.ibm.Files"/>
-			<item value="com.ibm.AnoynomusFun"/>
+			<item value="com.ibm.annotations"/>
 		</list>
 		<list key="groupId">
 			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
-			<item value="Files"/>
-			<item value="AnoynomusFun"/>
+			<item value="annotations"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,5 +66,9 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
