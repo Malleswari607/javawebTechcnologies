@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\RaaviMalleswari\eclipse-workspace\springmvc"/>
+			<item value="C:\RaaviMalleswari\eclipse-workspace\springjdbc\src\main\resources\springjdbc.xml"/>
 			<item value="C:\RaaviMalleswari\eclipse-workspace\Arrays"/>
 			<item value="C:\RaaviMalleswari\eclipse-workspace"/>
 			<item value="C:\RaaviMalleswari\eclipse-workspace\FirstApp\src\com\ibm\clients\cui\Strings.java"/>
@@ -28,13 +30,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.ibm.annotations"/>
+			<item value="com.ibm.springmvcex1"/>
+			<item value="com.ibm.springmvc"/>
 		</list>
 		<list key="groupId">
 			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
-			<item value="annotations"/>
+			<item value="springmvcex1"/>
+			<item value="springmvc"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,6 +72,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
