@@ -30,6 +30,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.ibm.unittesting"/>
 			<item value="com.ibm.springmvcex1"/>
 			<item value="com.ibm.springmvc"/>
 		</list>
@@ -37,6 +38,7 @@
 			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
+			<item value="unittesting"/>
 			<item value="springmvcex1"/>
 			<item value="springmvc"/>
 		</list>
@@ -82,5 +84,18 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\RaaviMalleswari\eclipse-workspace"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

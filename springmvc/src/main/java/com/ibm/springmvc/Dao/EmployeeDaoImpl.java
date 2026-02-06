@@ -1,7 +1,5 @@
 package com.ibm.springmvc.Dao;
 
-import java.util.List;
-
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
@@ -18,11 +16,5 @@ public class EmployeeDaoImpl implements EmployeeDao {
 		return jdbcTemplate.update("INSERT INTO employee(name,email,phone) VALUES (?,?,?)", e.getName(),
 				e.getEmail(), e.getPhone());
 	}
-
-	public int update(Employee e) {
-		return jdbcTemplate.update("UPDATE employee SET name=?, email=?, phone=? WHERE name=?", e.getName(),
-				e.getEmail(), e.getPhone(), e.getName());
-	}
-
 	
 }
